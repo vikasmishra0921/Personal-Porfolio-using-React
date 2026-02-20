@@ -222,7 +222,7 @@ export const SKILLS = {
   libraries: ["Pandas", "NumPy", "Scikit-learn", "Matplotlib", "Seaborn"],
   machineLearning: ["Linear Regression","Logistic Regression","Decision Trees","Random Forest", "K-Means Clustering"],
   dataAnalysis: ["Data Cleaning","Exploratory Data Analysis (EDA)","Statistical Analysis", "Hypothesis Testing","Data Wrangling","Model Evaluation"],
-  dataVisualization: ["Matplotlib", "Seaborn", "Plotly", "Tableau"],
+  dataVisualization: ["Matplotlib", "Seaborn", "Plotly", "Tableau","PowerBI"],
   frontend: ["React", "Tailwind", "Bootstrap", "Responsive Design", "DOM"],
   backend: ["Node.js", "Express.js", "REST APIs"],
   databases: ["MySQL", "PostgreSQL", "MongoDB"],
